@@ -1,4 +1,4 @@
-# Exploration of Loan Data from Prosper 
+# Data visualiization - Loan Prosper Data
 
 ## Dataset
 
@@ -14,14 +14,14 @@ In the exploration, I find the following: <br>
 - investigating further by the employment status, there is still no visible difference in the relationship between the loan amount and monthly payment for the loans that were problematic to close and those that were unproblematic.<br><br>
 
 
-## Key Insights for Presentation
+## Key Insights 
 
-For the presentation, I focus on the following questions:
+For the explanatory phase, I focus on the following questions:
 1. Which factors affect the borrower’s interest rate?
 2. Which factors affect the ability of borrowers to close loans?<br>
 
 For the first question, I find that home owners have lower interest rates that those who do not own homes. The median interest rate for those with no public records is lower than for those with public records. In addition, those with higher credit scores have lower interest rates.<br><br>
 For the second question, I find that higher interest rates are associated with the loans that are problematic to close. The loans that are problematic to close have more borrowers with lower/ worse credit scores than the loans that are unproblematic.<br><br>
 
-# Sources
+## Sources
 1. To understand how credit scores work [source](https://bettermoneyhabits.bankofamerica.com/en/home-ownership/how-credit-affects-interest-rate#:~:text=A%20higher%20score%20increases%20a,mortgage%20interest%20rates%20and%20fees.&text=On%20the%20other%20hand%2C%20a,interest%20rates%20may%20be%20higher.)
