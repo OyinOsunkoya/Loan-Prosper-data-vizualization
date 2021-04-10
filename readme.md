@@ -1,4 +1,4 @@
-# Data visualiization - Loan Prosper Data
+# Data visualization - Loan Prosper Data
 
 ## Dataset
 
